@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-08-25T00:00:00.000000",
+  "total_signals": 0,
+  "successful_trades": 0,
+  "paper_balance": 10000.0,
+  "realized_pnl_today": 0.0,
+  "start_of_day_balance": 10000.0,
+  "daily_loss_limit_pct": 0.1,
+  "circuit_breaker_state": null,
+  "active_positions": {}
+}

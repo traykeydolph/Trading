@@ -1,0 +1,18 @@
+🚀 Ultimate Grizzlies Signal Processor initialized!
+🧪 Binance TESTNET mode - Paper trading enabled
+✅ Binance API connection successful!
+🧪 Alpaca PAPER mode - Paper trading enabled
+❌ Alpaca API connection failed: {'message': 'forbidden.'}
+🚀 DUAL-EXCHANGE API initialized: CRYPTO→Binance | STOCKS→Alpaca | Paper: True
+⚠️ Failed to get messages from channel 1025803258691862678: 401
+🚀 ULTIMATE BIG BOSS CEO Trading Bot initialized!
+📊 Exchange: KRAKEN | Paper Trading: True
+⚡ Auto Trading: True
+🎯 Target Win Rate: 95%
+🧠 LLM-First Parsing: ENABLED (95%+ accuracy)
+🛠️ Build Version: dev
+🔐 Credentials loaded: kraken:N, binance:N, discord:N
+📂 No active positions to restore
+🚀 Starting BIG BOSS CEO Trading Empire...
+❌ Discord connection failed: 401
+❌ Failed to connect to Discord
